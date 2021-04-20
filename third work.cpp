@@ -1,5 +1,3 @@
-// wat a shame..... (i don't care)
-// am i a bad engineer ? (go fkk uself :) )
 #pragma warning( disable : 4715 )
 #pragma warning( disable : 28182 )
 #pragma warning( disable : 4244 )
